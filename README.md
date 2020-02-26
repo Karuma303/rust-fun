@@ -8,3 +8,5 @@ fun repo for some rust experiments
 [nphysics](https://nphysics.org/)
 
 [Salva](https://www.salva.rs/)
+
+[Embark Studios / Texture-Synthesis](https://github.com/EmbarkStudios/texture-synthesis)
